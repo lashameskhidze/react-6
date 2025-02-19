@@ -1,0 +1,41 @@
+button {
+    border: none;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: #262E38;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #7C8798;
+    font-family: Overpass;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.175px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FC7614;
+    color: #fff;
+}
+
+.btn {
+    width: 279px;
+    height: 45px;
+    border-radius: 22.5px;
+    background: #FC7614;
+    border: none;
+    margin-top: 24px;
+    color: #FFF;
+    font-family: Overpass;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1.867px;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: #FC7614;
+}

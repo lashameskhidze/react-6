@@ -1,0 +1,36 @@
+.submitted-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.selectdiv {
+    border-radius: 22.5px;
+    background: #262E38;
+    width: 168px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.thank {
+    color: #FFF;
+    text-align: center;
+    font-family: Overpass;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 24px;
+}
+
+.ptag {
+    color: #969FAD;
+    text-align: center;
+    font-family: Overpass;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    margin-top: 10px;
+}

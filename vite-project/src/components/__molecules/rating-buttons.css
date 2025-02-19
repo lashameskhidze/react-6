@@ -1,0 +1,10 @@
+.mrgvaliWre {
+    display: flex;
+    gap: 17px;
+    margin-top: 24px;
+}
+
+.wre.selected {
+    background-color: #7C8798;
+    color: #fff;
+}
